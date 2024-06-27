@@ -9,7 +9,7 @@ setup(
     description='Alfred-Workflow library with Python for building Alfred 3.x 4.x 5.x workflows.',
     author='Agenric',
     author_email='AgenricWon@gmail.com',
-    url='https://github.com/agenric/Workflow',
+    url='https://github.com/agenricx/Workflow',
     packages = ['workflow'],
     include_package_data=True,
     package_data = {'workflow': ['version', 'Notify.tgz']}
